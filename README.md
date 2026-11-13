@@ -1,23 +1,34 @@
 # Adriano Fernandes
- 
-Senior Web Developer based in Brazil (UTC-3). 8+ years building and maintaining WordPress and PHP sites at code level: custom themes, WooCommerce, performance, technical SEO and security.
- 
+
+Senior Web Developer based in Brazil (UTC-3), working remotely in English and Portuguese. 8+ years building and maintaining WordPress sites and stores at code level, and shipping Next.js sites on recent projects.
+
+Fast, secure, easy-to-maintain websites, with performance that's measured, not promised.
+
 ## Focus
- 
-- **WordPress & PHP** — custom themes built from scratch, ACF, WooCommerce customization (hooks, checkout, integrations), WP-CLI
-- **Performance** — Core Web Vitals, caching, asset optimization
-- **Security** — hacked-site recovery, malware removal, post-incident hardening
-- **Technical SEO** — Google Search Console, GA4, Tag Manager
-- **Headless** — currently deepening React, Next.js, Strapi and Payload CMS on headless projects
+
+- **WordPress in code** — custom themes and plugins, WooCommerce (hooks, checkout), integrations (Teams, Slack, PDF generation), REST API, WP-CLI
+- **Performance & SEO** — Core Web Vitals, Lighthouse budgets, caching, WCAG accessibility; measured with Search Console, GA4 and Tag Manager
+- **Security & recovery** — hacked-site diagnosis, malware and backdoor removal, post-cleanup hardening
+- **Headless** — Next.js, React and Tailwind in production; WordPress-to-Strapi migrations and sites on Payload CMS
+
 ## Selected work
- 
-- **Spec-driven WordPress theme** — custom theme built from a written specification (conventions, performance, hardening and SEO baseline), with ACF and Tailwind, documented so AI coding agents can extend it following the same rules.
-- **Figma design-token extractor** — Figma plugin in TypeScript (Figma Plugin API) that exports design tokens and layout references to speed up design-to-code.
+
+- **Hacked WordPress recovery** — file-integrity diagnosis, user audit, clean reinstall and hardening. 20+ sites recovered.
+- **Spec-driven WordPress theme** — built from scratch from a written spec, with ACF, Tailwind, hardening and SEO from the base. 90+ on PageSpeed Insights, mobile and desktop.
+- **Figma-to-code plugin** — TypeScript plugin (Figma Plugin API) that extracts design tokens and layout references; used daily in design-to-code work.
+
+Case studies: [adrianowebdeveloper.com](https://adrianowebdeveloper.com)
+
+Client and product code is private. Source is available for technical review on request.
+
 ## How I work
- 
+
+Spec → Build + AI → Review → Ship
+
+- Scope, acceptance criteria and standards (WordPress Coding Standards, performance budgets, security, accessibility) written before any code
+- AI tools (Claude Code, Codex, Cursor, MCP) draft and refactor; every diff is reviewed and tested locally, then on staging
 - Local → staging → production with approval before release; CI checks on GitHub Actions
-- AI in daily development (Claude, Codex, MCP), driven by specs and human review
-- English: professional working proficiency
+
 ## Contact
- 
-[LinkedIn](https://www.linkedin.com/in/adriano-p-fernandes/)
+
+[Website](https://adrianowebdeveloper.com) · [LinkedIn](https://www.linkedin.com/in/adriano-p-fernandes/)

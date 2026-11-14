@@ -13,9 +13,10 @@ Fast, secure, easy-to-maintain websites, with performance that's measured, not p
 
 ## Selected work
 
+- **Custom Gutenberg blocks** — WordPress plugin with a static block, a parent/child FAQ with FAQPage schema, and a dynamic related-posts block with a versioned transient cache. WordPress Coding Standards and CI on GitHub Actions. [Code](https://github.com/adrianofernandes-dev/wp-custom-blocks)
+- **Spec-driven WordPress theme** — built from scratch from a written spec, with ACF, Tailwind, hardening and SEO from the base. 90+ on PageSpeed Insights, mobile and desktop. [Overview](https://github.com/adrianofernandes-dev/wp-spec-driven-theme)
+- **Figma-to-code plugin** — TypeScript plugin (Figma Plugin API) that extracts design tokens and layout references; used daily in design-to-code work. [Overview](https://github.com/adrianofernandes-dev/figma-design-extractor)
 - **Hacked WordPress recovery** — file-integrity diagnosis, user audit, clean reinstall and hardening. 20+ sites recovered.
-- **Spec-driven WordPress theme** — built from scratch from a written spec, with ACF, Tailwind, hardening and SEO from the base. 90+ on PageSpeed Insights, mobile and desktop.
-- **Figma-to-code plugin** — TypeScript plugin (Figma Plugin API) that extracts design tokens and layout references; used daily in design-to-code work.
 
 Case studies: [adrianowebdeveloper.com](https://adrianowebdeveloper.com)
 
